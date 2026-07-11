@@ -26,7 +26,7 @@ function HeroSection({ onOpenChat }) {
         <div className="lp-hero-glow lp-glow-2" />
         <div className="lp-hero-glow lp-glow-3" />
 
-        <div className="lp-badge">✦ Powered by Gemini 2.0</div>
+        <div className="lp-badge">✦ Powered by Gemini 3.5</div>
 
         <h1 className="lp-hero-title">
           Meet <span className="lp-gradient-text">Nova AI</span>
