@@ -782,7 +782,7 @@ function ChatWindow({ isMaximized, onToggleMaximize, onClose }) {
           )}
           <div className="chat-title-container">
             <h3 className="chat-title-display">{activeThread.title}</h3>
-            <span className="chat-subtitle">Gemini 2.5 Flash • Multimodal</span>
+           <span className="chat-subtitle">Gemini 3.1 Flash Lite • Multimodal</span>
           </div>
         </div>
 
